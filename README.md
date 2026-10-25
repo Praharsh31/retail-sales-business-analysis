@@ -61,6 +61,26 @@ The interactive dashboard includes:
 - The dashboard helps compare category performance, regional profitability, and monthly sales trends.
 
 **Note:** The project uses synthetic practice data for learning and portfolio demonstration.
+## Key Business Findings
+
+- **Total Sales:** $358,789.40
+- **Total Profit:** $29,194.86
+- **Total Orders:** 500
+- **Average Profit per Order:** $58.39
+- **Top Sales Category:** Technology
+- **Highest Sales Region:** South
+- **Highest Profit Region:** West
+
+## Tools Used
+
+- **Excel:** PivotTables, charts, and interactive dashboard
+- **SQL:** Business queries for sales, profit, categories, and regions
+- **Python:** Pandas, Matplotlib, and exploratory data analysis
+- **Power BI:** KPI cards and sales performance visualizations
+
+## Project Status
+
+The project uses a synthetic retail dataset for learning and portfolio demonstration. Findings are based on the generated sample data and should not be interpreted as actual company performance.
 
 ## Suggested final insights
 Do not copy conclusions blindly. Use your actual results to write 3–5 observations and 2–3 recommendations. Explain what the numbers mean for a business.

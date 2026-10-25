@@ -19,12 +19,12 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 Format `Total Sales` and `Total Profit` as currency and `Profit Margin %` as percentage.
 
 ## Build one-page report
-- Four Card visuals: Total Sales, Total Profit, Units Sold, Profit Margin %.
-- Clustered bar chart: Axis = Category; Values = Total Sales and Total Profit (or use separate visuals if scales are hard to compare).
-- Bar chart: Axis = Region; Values = Total Profit.
-- Line chart: X-axis = Order_Date (month level); Y-axis = Total Sales.
-- Bar chart: Axis = Sub_Category; Values = Total Sales.
-- Add slicers for Region, Category, and Segment.
-- Use clear titles, consistent formatting, and avoid clutter.
+- Add four Card visuals: Total Sales, Total Profit, Total Orders, and Average Profit per Order.
+- Add a bar chart showing Sales by Category.
+- Add a horizontal bar chart showing Profit by Region.
+- Add a line chart showing Monthly Sales Trend.
+- Format sales, profit, and average profit as currency.
+- Arrange the visuals neatly and use clear titles.
+- Use the synthetic practice dataset for this project.
 
 Save the file as `powerbi/retail_sales_dashboard.pbix`. Power BI Desktop is required to create the PBIX file.

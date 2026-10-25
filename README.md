@@ -14,12 +14,13 @@ This beginner portfolio project analyzes retail sales, profit, discounts, produc
 6. Which business areas should management investigate?
 
 ## Repository structure
-- `data/` — synthetic practice data in CSV and Excel formats
-- `notebooks/` — Python analysis notebook
-- `sql/` — SQL queries for analysis
-- `excel/` — instructions for Excel analysis
-- `powerbi/` — instructions for building a Power BI dashboard
-- `requirements.txt` — Python packages
+- `retail_sales.csv` — Synthetic retail sales dataset
+- `retail_sales.xlsx` — Dataset in Excel format
+- `notebooks/retail_sales_analysis.ipynb` — Python data analysis
+- `sql/retail_sales_queries.sql` — SQL queries for business analysis
+- `excel/retail_sales_dashboard.xlsx` — Excel dashboard
+- `powerbi/retail_sales_dashboard.pbix` — Power BI dashboard
+- `requirements.txt` — Required Python packages
 
 ## How to run the Python notebook
 1. Install Python and Jupyter, or open Google Colab.

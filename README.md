@@ -42,6 +42,26 @@ Open `data/retail_sales.xlsx`. Convert the data range to a Table, then create Pi
 ## Power BI
 Open Power BI Desktop, choose **Get data > Text/CSV**, and load `data/retail_sales.csv`. Follow `powerbi/powerbi_steps.md` to build the report.
 
+### Power BI Dashboard
+
+The interactive dashboard includes:
+- Total Sales: $358,789.40
+- Total Profit: $29,194.86
+- Total Orders: 500
+- Average Profit per Order: $58.39
+- Sales by Category
+- Profit by Region
+- Monthly Sales Trend
+
+### Key Findings
+
+- Technology generated the highest sales among the three categories.
+- The West region generated the highest profit.
+- Monthly sales varied throughout the period.
+- The dashboard helps compare category performance, regional profitability, and monthly sales trends.
+
+**Note:** The project uses synthetic practice data for learning and portfolio demonstration.
+
 ## Suggested final insights
 Do not copy conclusions blindly. Use your actual results to write 3–5 observations and 2–3 recommendations. Explain what the numbers mean for a business.
 
